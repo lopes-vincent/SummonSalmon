@@ -7,13 +7,16 @@ public class ObstacleSpawner : MonoBehaviour
 {
     [SerializeField]
     private Transform _obstacleTarget;
+    
+    [SerializeField]
+    private GameObject _smokePrefab;
 
     public List<ObstaclePattern> _obstaclePatterns = new List<ObstaclePattern>();
     
     private ObstaclePattern _currentPattern;
     
     public GameManager GameManager;
-
+    
     private void Start()
     {
         StartCoroutine(SpawnCycle());
@@ -30,10 +33,11 @@ public class ObstacleSpawner : MonoBehaviour
                 MovingObject movingObject = obstacleInstance.GetComponent<MovingObject>();
                 movingObject.SetObstacleTarget(_obstacleTarget);
                 movingObject.GameManager = GameManager;
+                movingObject.GetComponent<Obstacle>().smokePrefab = _smokePrefab;
                 
                 yield return new WaitForSeconds(2f);
             }
-            yield return new WaitForSeconds(5f);
+            yield return new WaitForSeconds(3.2f);
         }
     }
 }

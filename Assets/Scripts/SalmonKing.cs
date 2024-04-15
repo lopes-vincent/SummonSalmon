@@ -46,6 +46,9 @@ public class SalmonKing : MonoBehaviour
     private float _cooldownTime = 1f;
     private bool _isOnCooldown = false;
     
+    [SerializeField]
+    private GameObject _salmonSprite;
+    
     void Start()
     {
         _rigidbody2D = GetComponent<Rigidbody2D>();
@@ -63,9 +66,21 @@ public class SalmonKing : MonoBehaviour
             Destroy(lifeImage.gameObject);
             if (_life <= 0)
             {
-                SceneManager.LoadScene("End");
+                StartCoroutine(GameOver());
             }
         }
+    }
+    
+    IEnumerator GameOver()
+    {
+        foreach (SpriteRenderer spriteRenderer in GetComponentsInChildren<SpriteRenderer>())
+        {
+            spriteRenderer.enabled = false;
+        }
+        _salmonSprite.gameObject.SetActive(false);
+        
+        yield return new WaitForSeconds(1f);
+        SceneManager.LoadScene("End");
     }
     
     IEnumerator InvincibilityFrames()

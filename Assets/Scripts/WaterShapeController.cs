@@ -32,11 +32,11 @@ public class WaterShapeController : MonoBehaviour
     private int WaveCount;
     
     void Start() { 
-       
+        StartCoroutine(CreateWaves());
     }
     
     void OnValidate() {
-        StartCoroutine(CreateWaves());
+        // StartCoroutine(CreateWaves());
     }
     
     IEnumerator CreateWaves() {

@@ -1,0 +1,1051 @@
+fileFormatVersion: 2
+guid: 08457db023cbbfb4ab0878129619c9a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4994607662422076643
+    second: BearHit (8)_0
+  - first:
+      213: -1485477403778967752
+    second: BearHit (8)_1
+  - first:
+      213: -7386849004727001842
+    second: BearHit (8)_2
+  - first:
+      213: 2683196509048656450
+    second: BearHit (8)_3
+  - first:
+      213: -4772123252186125603
+    second: BearHit (8)_4
+  - first:
+      213: -18478691538788276
+    second: BearHit (8)_5
+  - first:
+      213: -5834716516924607688
+    second: BearHit (8)_6
+  - first:
+      213: 3565171144248605846
+    second: BearHit (8)_7
+  - first:
+      213: -8476044356060209047
+    second: BearHit (8)_8
+  - first:
+      213: -2839484727105014780
+    second: BearHit (8)_9
+  - first:
+      213: 8298392272495650107
+    second: BearHit (8)_10
+  - first:
+      213: 2900859760372481195
+    second: BearHit (8)_11
+  - first:
+      213: -1953451456192229922
+    second: BearHit (8)_12
+  - first:
+      213: -6643446420162654848
+    second: BearHit (8)_13
+  - first:
+      213: -4260691696591517394
+    second: BearHit (8)_14
+  - first:
+      213: 5201812674075035206
+    second: BearHit (8)_15
+  - first:
+      213: 4309454299158096834
+    second: BearHit (8)_16
+  - first:
+      213: -2019967230780943731
+    second: BearHit (8)_17
+  - first:
+      213: 7890031002749030456
+    second: BearHit (8)_18
+  - first:
+      213: -1104630224273064829
+    second: BearHit (8)_19
+  - first:
+      213: 2515307800860172300
+    second: BearHit (8)_20
+  - first:
+      213: 1055701110931150205
+    second: BearHit (8)_21
+  - first:
+      213: -3769315314742728990
+    second: BearHit (8)_22
+  - first:
+      213: 3269258607659902351
+    second: BearHit (8)_23
+  - first:
+      213: -5384699204079152885
+    second: BearHit (8)_24
+  - first:
+      213: -1177782950894704499
+    second: BearHit (8)_25
+  - first:
+      213: 4254073447526751384
+    second: BearHit (8)_26
+  - first:
+      213: 4878749695080133889
+    second: BearHit (8)_27
+  - first:
+      213: 3761096037361704685
+    second: BearHit (8)_28
+  - first:
+      213: 7270731439316140079
+    second: BearHit (8)_29
+  - first:
+      213: -4378069014078581375
+    second: BearHit (8)_30
+  - first:
+      213: -1347509172305524993
+    second: BearHit (8)_31
+  - first:
+      213: -3148079210915582709
+    second: BearHit (8)_32
+  - first:
+      213: 2826222900388936553
+    second: BearHit (8)_33
+  - first:
+      213: 1071415413262088605
+    second: BearHit (8)_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BearHit (8)_0
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 456
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1353e82bc69faab0800000000000000
+      internalID: -4994607662422076643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearHit (8)_1
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 467
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83792e1fb26826be0800000000000000
+      internalID: -1485477403778967752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearHit (8)_2
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 466
+        width: 541
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d9cc7a7f3ac7990800000000000000
+      internalID: -7386849004727001842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearHit (8)_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 481
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242d9604201ac3520800000000000000
+      internalID: 2683196509048656450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearHit (8)_4
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 483
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda60199f2306cdb0800000000000000
+      internalID: -4772123252186125603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearHit (8)_5
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 459
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40aaea5ab95ebff0800000000000000
+      internalID: -18478691538788276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearHit (8)_6
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 395
+        width: 563
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833ba93dd3ce60fa0800000000000000
+      internalID: -5834716516924607688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearHit (8)_7
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 383
+        width: 507
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c396044480a7130800000000000000
+      internalID: 3565171144248605846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearHit (8)_8
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 202
+        width: 518
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960a390f09a0f5a80800000000000000
+      internalID: -8476044356060209047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearHit (8)_9
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 448
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40432c75faf1898d0800000000000000
+      internalID: -2839484727105014780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearHit (8)_10
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 455
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3523f81ecfc92370800000000000000
+      internalID: 8298392272495650107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearHit (8)_11
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 431
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bacf938259ce14820800000000000000
+      internalID: 2900859760372481195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearHit (8)_12
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 415
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd41bb1042f3e4e0800000000000000
+      internalID: -1953451456192229922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearHit (8)_13
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 455
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d4dd9edacbdc3a0800000000000000
+      internalID: -6643446420162654848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearHit (8)_14
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 447
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29c43fd97bfed4c0800000000000000
+      internalID: -4260691696591517394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearHit (8)_15
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 451
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6460e52111d803840800000000000000
+      internalID: 5201812674075035206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearHit (8)_16
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 423
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb29154ad14ecb30800000000000000
+      internalID: 4309454299158096834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearHit (8)_17
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 440
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d825f5f7182a7f3e0800000000000000
+      internalID: -2019967230780943731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearHit (8)_18
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 412
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830dca1d4650f7d60800000000000000
+      internalID: 7890031002749030456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearHit (8)_19
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 408
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c3b02e9a09ba0f0800000000000000
+      internalID: -1104630224273064829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearHit (8)_20
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 379
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c002a034e1b28e220800000000000000
+      internalID: 2515307800860172300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearHit (8)_21
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 381
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75590a219a96ae00800000000000000
+      internalID: 1055701110931150205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearHit (8)_22
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 338
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6e15221b3b0bbc0800000000000000
+      internalID: -3769315314742728990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearHit (8)_23
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 287
+        width: 45
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85e474e16dbe5d20800000000000000
+      internalID: 3269258607659902351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearHit (8)_24
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 307
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01988e6a94b545b0800000000000000
+      internalID: -5384699204079152885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearHit (8)_25
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 262
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88e86575aca7afe0800000000000000
+      internalID: -1177782950894704499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearHit (8)_26
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 158
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89cd040f241890b30800000000000000
+      internalID: 4254073447526751384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearHit (8)_27
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 174
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105fb4bbffcc4b340800000000000000
+      internalID: 4878749695080133889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearHit (8)_28
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 177
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deed2193be8123430800000000000000
+      internalID: 3761096037361704685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearHit (8)_29
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 125
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2004b9d8b3d6e460800000000000000
+      internalID: 7270731439316140079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearHit (8)_30
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 140
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18593bd7d69fd33c0800000000000000
+      internalID: -4378069014078581375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearHit (8)_31
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 98
+        width: 33
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff606251c8fac4de0800000000000000
+      internalID: -1347509172305524993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearHit (8)_32
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 102
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0da59c03a6cf44d0800000000000000
+      internalID: -3148079210915582709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearHit (8)_33
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 68
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96bb1c101c2c83720800000000000000
+      internalID: 2826222900388936553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearHit (8)_34
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 34
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d997d5a44ae6ede00800000000000000
+      internalID: 1071415413262088605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BearHit (8)_0: -4994607662422076643
+      BearHit (8)_1: -1485477403778967752
+      BearHit (8)_10: 8298392272495650107
+      BearHit (8)_11: 2900859760372481195
+      BearHit (8)_12: -1953451456192229922
+      BearHit (8)_13: -6643446420162654848
+      BearHit (8)_14: -4260691696591517394
+      BearHit (8)_15: 5201812674075035206
+      BearHit (8)_16: 4309454299158096834
+      BearHit (8)_17: -2019967230780943731
+      BearHit (8)_18: 7890031002749030456
+      BearHit (8)_19: -1104630224273064829
+      BearHit (8)_2: -7386849004727001842
+      BearHit (8)_20: 2515307800860172300
+      BearHit (8)_21: 1055701110931150205
+      BearHit (8)_22: -3769315314742728990
+      BearHit (8)_23: 3269258607659902351
+      BearHit (8)_24: -5384699204079152885
+      BearHit (8)_25: -1177782950894704499
+      BearHit (8)_26: 4254073447526751384
+      BearHit (8)_27: 4878749695080133889
+      BearHit (8)_28: 3761096037361704685
+      BearHit (8)_29: 7270731439316140079
+      BearHit (8)_3: 2683196509048656450
+      BearHit (8)_30: -4378069014078581375
+      BearHit (8)_31: -1347509172305524993
+      BearHit (8)_32: -3148079210915582709
+      BearHit (8)_33: 2826222900388936553
+      BearHit (8)_34: 1071415413262088605
+      BearHit (8)_4: -4772123252186125603
+      BearHit (8)_5: -18478691538788276
+      BearHit (8)_6: -5834716516924607688
+      BearHit (8)_7: 3565171144248605846
+      BearHit (8)_8: -8476044356060209047
+      BearHit (8)_9: -2839484727105014780
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

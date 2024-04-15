@@ -154,7 +154,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _weakTo:
   - SalmonKnight
+  _hitPrefab: {fileID: 8557380683829506911, guid: 046b92b96e8d14d45bd9e06f5ed22df3, type: 3}
   _life: 1
+  smokePrefab: {fileID: 0}
 --- !u!50 &6232005012470631991
 Rigidbody2D:
   serializedVersion: 4

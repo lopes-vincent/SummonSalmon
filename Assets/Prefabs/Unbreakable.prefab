@@ -138,6 +138,7 @@ MonoBehaviour:
   _obstacleTarget: {fileID: 0}
   _waveMakerAmplitude: 0.2
   _speed: 1.5
+  GameManager: {fileID: 0}
 --- !u!114 &3838672820396131483
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -151,7 +152,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _weakTo: []
+  _hitPrefab: {fileID: 5575868162134811253, guid: 3e166ad531aba8a45947e68e895fe99c, type: 3}
   _life: 2
+  smokePrefab: {fileID: 0}
 --- !u!61 &7320798191057714678
 BoxCollider2D:
   m_ObjectHideFlags: 0
