@@ -1,10 +1,28 @@
 fileFormatVersion: 2
-guid: 9b44dc46a6ee1364c9ff85a7fe80b56d
+guid: 6453544f1da7c7f41863b1834616b5bd
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6967122372230043882
-    second: Salmon_0
+      213: 7209029178446089201
+    second: Splash-2_0
+  - first:
+      213: -7220734617689556677
+    second: Splash-2_1
+  - first:
+      213: -619246234400115136
+    second: Splash-2_2
+  - first:
+      213: 7248618183384351326
+    second: Splash-2_3
+  - first:
+      213: 6543188837743052365
+    second: Splash-2_4
+  - first:
+      213: 3274483151885649239
+    second: Splash-2_5
+  - first:
+      213: -384714024346290086
+    second: Splash-2_6
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,23 +144,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Salmon_0
+      name: Splash-2_0
       rect:
         serializedVersion: 2
-        x: 50
-        y: 335
-        width: 1205
-        height: 622
+        x: 164
+        y: 158
+        width: 305
+        height: 179
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6172d88ad1fcf4f90800000000000000
-      internalID: -6967122372230043882
+      spriteID: 1fb84bcb7dd9b0460800000000000000
+      internalID: 7209029178446089201
       vertices: []
       indices: 
       edges: []
@@ -151,7 +169,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -159,7 +177,13 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Salmon_0: -6967122372230043882
+      Splash-2_0: 7209029178446089201
+      Splash-2_1: -7220734617689556677
+      Splash-2_2: -619246234400115136
+      Splash-2_3: 7248618183384351326
+      Splash-2_4: 6543188837743052365
+      Splash-2_5: 3274483151885649239
+      Splash-2_6: -384714024346290086
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

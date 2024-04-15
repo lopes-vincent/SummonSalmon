@@ -158,7 +158,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cartoon_Forest_BG_01_0: -1014352074641716854
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

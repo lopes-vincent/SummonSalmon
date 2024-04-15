@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.Serialization;
 using UnityEngine.UI;
 
@@ -62,7 +63,7 @@ public class SalmonKing : MonoBehaviour
             Destroy(lifeImage.gameObject);
             if (_life <= 0)
             {
-                Destroy(gameObject);
+                SceneManager.LoadScene("End");
             }
         }
     }

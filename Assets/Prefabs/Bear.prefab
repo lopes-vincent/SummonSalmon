@@ -75,7 +75,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 12
+  m_SortingOrder: 13
   m_Sprite: {fileID: 4693792977596894205, guid: 98721a923acc098479dbe40a886cc895, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -139,6 +139,7 @@ MonoBehaviour:
   _obstacleTarget: {fileID: 0}
   _waveMakerAmplitude: 0
   _speed: 1.5
+  GameManager: {fileID: 0}
 --- !u!114 &7642904415430425537
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -153,7 +154,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _weakTo:
   - SalmonKnight
-  _life: 2
+  _life: 1
 --- !u!50 &6232005012470631991
 Rigidbody2D:
   serializedVersion: 4
@@ -313,7 +314,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 9
+  m_SortingOrder: 12
   m_Sprite: {fileID: 6175518045648061532, guid: dbdd3b78bdf86a9449c15d5a134da619, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0

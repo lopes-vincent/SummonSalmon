@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 984c624f057a6104eaedbd029ad36a25
+guid: af1992a7ccc428745b298a6995ec4f2b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1378521658571115459
-    second: Crown_0
+      213: -5297884316500270224
+    second: Splash-5_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 1024
+  spritePixelsToUnits: 256
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Crown_0
+      name: Splash-5_0
       rect:
         serializedVersion: 2
-        x: 103
-        y: 251
-        width: 1047
-        height: 605
+        x: 0
+        y: 0
+        width: 630
+        height: 127
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d34bfa1fad18edce0800000000000000
-      internalID: -1378521658571115459
+      spriteID: 07363e598422a76b0800000000000000
+      internalID: -5297884316500270224
       vertices: []
       indices: 
       edges: []
@@ -159,7 +159,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Crown_0: -1378521658571115459
+      Splash-5_0: -5297884316500270224
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
